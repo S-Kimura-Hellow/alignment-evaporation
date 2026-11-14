@@ -1,3 +1,6 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![Model](https://img.shields.io/badge/Model-Qwen1.5--0.5B--Chat-orange.svg)
 # Alignment Evaporation: 再帰的合成データループにおける安全ガードレールの劣化に関する実証研究
 
 **著者:** 木村 昇太 (Shota Kimura)  
