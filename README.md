@@ -1,3 +1,6 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![Model](https://img.shields.io/badge/Model-Qwen1.5--0.5B--Chat-orange.svg)
 # Alignment Evaporation: Investigating the Degradation of Safety Guardrails in Recursive Synthetic Data Loops
 
 **Author:** Shota Kimura  
